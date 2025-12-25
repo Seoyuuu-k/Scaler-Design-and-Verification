@@ -1,0 +1,5 @@
+`include "line_buf_ctrl.v"
+`include "single_port_ram.v"
+`include "video_timing.sv" 
+`include "scaler_top.sv"
+`include "scaler.sv"
